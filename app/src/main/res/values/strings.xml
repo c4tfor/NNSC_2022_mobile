@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Neural Networks Speed-up and Compression</string>
+
+    <string-array name="array_models">
+        <item>Original</item>
+        <item>Quantized</item>
+        <item>Compressed</item>
+        <item>CompQuan</item>
+    </string-array>
+
+</resources>
